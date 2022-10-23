@@ -1,11 +1,7 @@
 <template>
-  <keep-alive>
-    <router-view></router-view>
-  </keep-alive>
+  <div>就哈哈{{ $route.query.id }}</div>
 </template>
-
 <script>
 export default {};
 </script>
-
 <style></style>
