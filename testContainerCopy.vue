@@ -1,3 +1,5 @@
 <template>
-  <div>晒着</div>
+  <div>
+    <div>我是1.2</div>
+  </div>
 </template>
