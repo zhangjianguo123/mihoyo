@@ -52,7 +52,7 @@ export default {
       //   view.updateState(newState);
       // },
     });
-    console.log('view', view);
+    console.log('view', view, state);
     let tr = view.state.tr;
     console.log(tr.doc.content);
     tr.insertText('hello');
